@@ -1,0 +1,24 @@
+.name{
+    text-align: center;
+    font-size: 60px;
+    background-color:pink;
+    text-decoration-color: antiquewhite;
+    border: 2px solid rgb(0, 136, 255);
+
+    padding: 6px;
+    margin: 20px;
+}
+button{
+    color: #000;
+    border-radius: 10px;
+
+}
+button :hover{
+    color: blueviolet;
+}
+form{
+    background-color: blanchedalmond;
+}
+#birthdate{
+    color: magenta;
+}
